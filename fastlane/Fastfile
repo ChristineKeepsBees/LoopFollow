@@ -60,7 +60,7 @@ platform :ios do
       key_content: "#{FASTLANE_KEY}"
     )
 
-    previous_build_number = 1
+    previous_build_number = 4
      
 
     current_build_number = previous_build_number + 1
